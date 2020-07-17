@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning, Natural Language Processing and Differential Geometry
 - 📫 How to reach me: Mail me at achetan40@gmail.com!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a die hard fan of Pokémon!
+- ⚡ Fun fact: I am a die hard fan of Pokemon!
 -->
