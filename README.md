@@ -5,7 +5,6 @@ I am Senior-year Undergraduate at IIIT Delhi, majoring in Computer Science and A
 <!--
 **justachetan/justachetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Functional Maps for Shape correspondences (Geometry Processing) and Entity Similarity from minimal labelled data (NLP).
 - 🌱 I’m currently learning Reinforcement Learning, Geometry Processing and Music Production!
