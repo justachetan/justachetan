@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I completed my undergraduate from IIIT Delhi, where I majored in Computer Science and Applied Mathematics. For more details about my work and projects, check out my [website](http://justachetan.github.io)!
+I am a Ph.D. student at Cornell University working in Graphics and Vision. I completed my undergraduate from IIIT Delhi, where I majored in Computer Science and Applied Mathematics. For more details about my work and projects, check out my [website](http://justachetan.github.io)!
 
 <!--
 **justachetan/justachetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
